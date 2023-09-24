@@ -1,3 +1,6 @@
+![image](https://github.com/FREDVUNI/learn-nextjs/assets/41730664/c526aed9-e217-44cb-b1a5-20a2e90137c7)
+
+
 # Next.js Roadmap Resources
 
 Welcome to the Next.js Roadmap Resources! Whether you're a beginner looking to get started with Next.js or an experienced developer aiming to level up your skills, this readme has you covered. Below, you'll find a curated list of resources to help you on your Next.js journey.
