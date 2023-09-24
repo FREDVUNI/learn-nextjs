@@ -13,7 +13,7 @@ Welcome to the Next.js Roadmap Resources! Whether you're a beginner looking to g
 
 ---
 
-## 🛤️ Next JS Learning Roadmaps
+## 🛤️ NextJS Learning Roadmaps
 
 - [Next.js Official Documentation](https://nextjs.org/docs/getting-started/introduction): Start with the official documentation to understand the basics of Next.js.
 
