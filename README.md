@@ -4,7 +4,7 @@ Welcome to the Next.js Roadmap Resources! Whether you're a beginner looking to g
 
 ## Table of Contents
 
-1. 🛤️ [Next JS Learning Roadmaps](#Next JS-learning-roadmaps)
+1. 🛤️ [Next JS Learning Roadmaps](#NextJS-learning-roadmaps)
 2. 📺 [YouTube Channels](#youtube-channels)
 3. 📚 [E-Books](#e-books)
 4. 💻 [Online Learning Platforms](#online-learning-platforms)
